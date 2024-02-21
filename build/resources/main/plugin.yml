@@ -1,0 +1,4 @@
+name: SolracReplanter
+version: '1.0'
+main: fr.traqueur.solracreplanter.SolracReplanter
+api-version: '1.20'
